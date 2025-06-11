@@ -67,7 +67,7 @@ markdown
 Copy
 Edit
 ![Data](https://github.com/AshutoshPratapSingh17/Covid-19-analysis/blob/main/Cleaning.png)
-![Mortality Heatmap](images/mortality_heatmap.png)
+![Deaths and Cases](https://github.com/AshutoshPratapSingh17/Covid-19-analysis/blob/main/Deaths.png))
 ✅ Use Cases
 Health ministry reporting and planning
 
