@@ -1,4 +1,6 @@
 🦠 COVID-19 Data Analysis with Python
+
+
 This project provides an in-depth analysis and visualization of the COVID-19 pandemic using Python. It leverages publicly available datasets to explore the trends, patterns, and impact of COVID-19 on different countries over time.
 
 📁 Project Overview
@@ -64,7 +66,7 @@ Seaborn – correlation plots, trend analysis, heatmaps
 markdown
 Copy
 Edit
-![Confirmed Cases Over Time](images/confirmed_cases_lineplot.png)
+![Data](https://github.com/AshutoshPratapSingh17/Covid-19-analysis/blob/main/Cleaning.png)
 ![Mortality Heatmap](images/mortality_heatmap.png)
 ✅ Use Cases
 Health ministry reporting and planning
